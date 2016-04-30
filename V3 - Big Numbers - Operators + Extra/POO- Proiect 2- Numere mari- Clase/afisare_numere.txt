@@ -1,0 +1,2 @@
+Primul numar este: +12345
+Al doilea numar este: -654321

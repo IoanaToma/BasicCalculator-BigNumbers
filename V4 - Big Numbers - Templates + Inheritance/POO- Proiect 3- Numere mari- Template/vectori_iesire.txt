@@ -1,0 +1,8 @@
+Primul vector: 
++32
+-54
++10
+Al doilea vector: 
+-456
+-67
++543
